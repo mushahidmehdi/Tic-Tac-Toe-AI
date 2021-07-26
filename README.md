@@ -5,7 +5,7 @@
 
 ![Conda](https://img.shields.io/conda/pn/conda-forge/python)
 
-# Tic-Tac-Toe-AI-implement
+# Tic-Tac-Toe-AI-implemention
 Using Minimax algorithm, implement an AI to play Tic-Tac-Toe optimally.
 
 
